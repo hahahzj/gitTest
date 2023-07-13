@@ -11,6 +11,6 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-Hello Git!
+Hello Git! hot-fix test
 Hello Git! master test
 buzhiweihe
